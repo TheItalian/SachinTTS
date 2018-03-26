@@ -3,5 +3,7 @@ SachinTTS is a simple TTS engine written in Java that partially implements Tim L
 http://www2.eng.cam.ac.uk/~tpl/asp/
 
 Lead Programmer - Anthony Ferraro
+
 Programmer - Luc Gauvin
+
 Voice (for testing) - Sachin Kamath
